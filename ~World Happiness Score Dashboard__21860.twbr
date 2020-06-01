@@ -1488,8 +1488,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.1qsdl6v00q6x7711pvkzh09xzjtr].[Longitude (generated)]' field-type='quantitative' max='39247144.395756513' min='-27862779.638983704' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.1qsdl6v00q6x7711pvkzh09xzjtr].[Latitude (generated)]' field-type='quantitative' max='26914776.781085946' min='-14647619.717707779' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.1qsdl6v00q6x7711pvkzh09xzjtr].[Longitude (generated)]' field-type='quantitative' max='27355895.178925164' min='-23364047.813760117' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1qsdl6v00q6x7711pvkzh09xzjtr].[Latitude (generated)]' field-type='quantitative' max='19346620.092492297' min='-3508662.8610016829' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='table'>
             <format attr='show-null-value-warning' value='false' />
@@ -2309,7 +2309,7 @@
       <simple-id uuid='{6DA0A4B4-34BB-4721-AE40-08A961EF483E}' />
     </dashboard>
   </dashboards>
-  <windows film-mode='true' source-height='33'>
+  <windows film-mode='true' source-height='44'>
     <window class='worksheet' name='Map'>
       <cards>
         <edge name='left'>
@@ -2338,7 +2338,7 @@
       </cards>
       <simple-id uuid='{E3A55CDA-22FD-4DCA-A795-24F2E0FDF1E8}' />
     </window>
-    <window class='worksheet' maximized='true' name='Bubble Chart'>
+    <window class='worksheet' name='Bubble Chart'>
       <cards>
         <edge name='left'>
           <strip size='138'>
@@ -2538,7 +2538,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='30'>
             <card type='title' />
           </strip>
         </edge>
@@ -2561,7 +2561,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='30'>
             <card type='title' />
           </strip>
         </edge>
@@ -2584,7 +2584,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='30'>
             <card type='title' />
           </strip>
         </edge>
@@ -2607,7 +2607,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='30'>
             <card type='title' />
           </strip>
         </edge>
@@ -2717,7 +2717,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='30'>
             <card type='title' />
           </strip>
         </edge>
@@ -2770,7 +2770,7 @@
       </cards>
       <simple-id uuid='{4C99D675-3990-4A9F-8C5C-B66F0CF72AE2}' />
     </window>
-    <window class='worksheet' name='Health vs. HS'>
+    <window class='worksheet' maximized='true' name='Health vs. HS'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -2786,7 +2786,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='30'>
             <card type='title' />
           </strip>
         </edge>
