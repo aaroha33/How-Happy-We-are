@@ -2211,8 +2211,8 @@
       <size maxheight='964' maxwidth='1016' minheight='964' minwidth='1016' />
       <zones>
         <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='2' w='100000' x='0' y='0'>
-          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='100000' id='1' param='vert' removable='false' w='100000' x='0' y='0'>
-            <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' h='4668' id='3' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='99170' id='1' param='vert' removable='false' w='99212' x='394' y='415'>
+            <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' h='5602' id='3' w='99212' x='394' y='415'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -2223,7 +2223,7 @@
                 <format attr='margin-left' value='0' />
               </zone-style>
             </zone>
-            <zone _.fcp.SetMembershipControl.false...type='flipboard-nav' _.fcp.SetMembershipControl.true...type-v2='flipboard-nav' h='11307' id='4' is-fixed='true' paired-zone-id='5' removable='false' w='100000' x='0' y='4668'>
+            <zone _.fcp.SetMembershipControl.false...type='flipboard-nav' _.fcp.SetMembershipControl.true...type-v2='flipboard-nav' h='11307' id='4' is-fixed='true' paired-zone-id='5' removable='false' w='99212' x='394' y='6017'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -2233,7 +2233,7 @@
                 <format attr='margin-left' value='0' />
               </zone-style>
             </zone>
-            <zone _.fcp.SetMembershipControl.false...type='flipboard' _.fcp.SetMembershipControl.true...type-v2='flipboard' h='83610' id='5' paired-zone-id='4' removable='false' w='100000' x='0' y='15975'>
+            <zone _.fcp.SetMembershipControl.false...type='flipboard' _.fcp.SetMembershipControl.true...type-v2='flipboard' h='82261' id='5' paired-zone-id='4' removable='false' w='99212' x='394' y='17324'>
               <flipboard active-id='1' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='hi' captured-sheet='Map' id='1'>
@@ -2522,7 +2522,7 @@
       </cards>
       <simple-id uuid='{39100B6B-7545-495D-A972-5CFEF96CF440}' />
     </window>
-    <window class='worksheet' name='Family by Country'>
+    <window class='worksheet' maximized='true' name='Family by Country'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -2630,7 +2630,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='30'>
             <card type='title' />
           </strip>
         </edge>
@@ -2770,7 +2770,7 @@
       </cards>
       <simple-id uuid='{4C99D675-3990-4A9F-8C5C-B66F0CF72AE2}' />
     </window>
-    <window class='worksheet' maximized='true' name='Health vs. HS'>
+    <window class='worksheet' name='Health vs. HS'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -2809,7 +2809,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='30'>
             <card type='title' />
           </strip>
         </edge>
